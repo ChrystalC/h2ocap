@@ -16,8 +16,6 @@ global $themify;
 <!-- layout -->
 <div id="layout" class="pagewidth clearfix">
 
-<!-- TEST -->
-
 	<!-- content -->
     <?php themify_content_before(); //hook ?>
 	<div id="content" class="clearfix">
